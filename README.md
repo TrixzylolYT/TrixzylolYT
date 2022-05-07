@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Trixzy
+- 👀 I’m interested in learning code!
+- 🌱 I’m currently learning Javascript!
+- 💞️ I’m looking to collaborate on creating a website!
+- 📫 How to reach me: Discord Server: https://dsc.gg/trixzy's-chill-hub
